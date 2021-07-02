@@ -196,7 +196,7 @@ font-size: 18px;
     max-height: 0px;
     overflow: hidden;
   }
-  .content .links #show-features:checked ~ ul,
+ 
   .content .links #show-services:checked ~ ul,
   .content .links #show-items:checked ~ ul{
     max-height: 100vh;
